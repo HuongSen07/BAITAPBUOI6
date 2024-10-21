@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\bin\Debug\Lab_BUS.dll.config
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\bin\Debug\Lab_BUS.dll
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\bin\Debug\Lab_BUS.pdb
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\bin\Debug\Lab_DAL.dll
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\bin\Debug\Lab_DAL.pdb
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\bin\Debug\Lab_DAL.dll.config
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\obj\Debug\Lab_BUS.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\obj\Debug\Lab_BUS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\obj\Debug\Lab_BUS.csproj.Up2Date
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\obj\Debug\Lab_BUS.dll
+C:\Users\Administrator\source\repos\BaiTapTuan6\Lab_BUS\obj\Debug\Lab_BUS.pdb
